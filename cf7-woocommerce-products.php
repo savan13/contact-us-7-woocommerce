@@ -1,9 +1,9 @@
 <?php
 /**
  * A base module for [products] and [products*]
- *
- * @author Alen Birindzic
- * @date 30/08/2015
+ 
+ * @author Virtual Height IT Services Pvt Ltd
+ * @date 18/01/2020
  * @license MIT License
  */
 
