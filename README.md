@@ -1,5 +1,5 @@
 
-<h1>Contact Form 7 WooCommerce</h1><br/>
+<h1>Contact Form 7 WooCommerce Product & Order List </h1><br/>
 Dropdown menu for WooCommerce Products<br/>
 Dropdown menu for WooCommerce Orders (customer must be logged in to view their orders)<br/><br/>
 <b>How to use</b><br/><br/>
