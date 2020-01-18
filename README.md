@@ -1,6 +1,6 @@
 
 <h1>Contact Form 7 WooCommerce</h1><br/>
-<h3>Dropdown menu for WooCommerce Products</h4>
+<h4>Dropdown menu for WooCommerce Products</h4>
 Dropdown menu for WooCommerce Orders (customer must be logged in to view their orders)<br/><br/></h4>
 <b>How to use</b><br/><br/>
 
