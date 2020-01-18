@@ -1,5 +1,5 @@
 
-<h1>Contact Form 7 WooCommerce</h1><br/><br/>
+<h1>Contact Form 7 WooCommerce</h1><br/>
 <h3>Dropdown menu for WooCommerce Products</h3><br/>
 Dropdown menu for WooCommerce Orders (customer must be logged in to view their orders)<br/></br>
 How to use<br/>
