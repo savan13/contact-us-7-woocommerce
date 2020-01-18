@@ -8,5 +8,5 @@ Add the files to your theme folder and then require them in your functions.php f
 
 E.g.
 
-<code>require_once 'cf7-woocommerce-orders.php';<br/>
+<code>require_once 'cf7-woocommerce-orders.php';<br/><br/>
 require_once 'cf7-woocommerce-products.php';</code>
